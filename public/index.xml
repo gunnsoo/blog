@@ -5,16 +5,6 @@
     <link>https://gunnsoo.com/</link>
     <description>Recent content on gunnsoo&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Sun, 25 Jul 2021 15:47:16 +0900</lastBuildDate><atom:link href="https://gunnsoo.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://gunnsoo.com/posts/my-first-post/</link>
-      <pubDate>Sun, 25 Jul 2021 15:47:16 +0900</pubDate>
-      
-      <guid>https://gunnsoo.com/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
+    <language>ja</language><atom:link href="https://gunnsoo.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
