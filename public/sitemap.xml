@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.gunnsoo.com/categories/</loc>
+    <loc>https://blog.gunnsoo.com/about/</loc>
+    <lastmod>2021-08-07T13:22:39+09:00</lastmod>
   </url><url>
     <loc>https://blog.gunnsoo.com/</loc>
+    <lastmod>2021-07-25T15:47:16+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.gunnsoo.com/posts/my-first-post/</loc>
+    <lastmod>2021-07-25T15:47:16+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.gunnsoo.com/posts/</loc>
+    <lastmod>2021-07-25T15:47:16+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.gunnsoo.com/categories/</loc>
   </url><url>
     <loc>https://blog.gunnsoo.com/tags/</loc>
   </url>
