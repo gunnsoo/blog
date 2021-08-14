@@ -18,3 +18,7 @@ theme = "beautifulhugo"
     name = "ABOUT"
     url = "about/"
     weight = 2
+
+[Params]
+  favicon = "img/favicon.ico"
+  logo = "img/logo.png"
