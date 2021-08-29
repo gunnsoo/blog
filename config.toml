@@ -11,11 +11,22 @@ theme = "beautifulhugo"
   atcoder = "pybot114514"
   qiita = "gunnsoo"
 
-[[menu.main]]
-    name = "TOP"
-    url = ""
-    weight = 1
-
 [Params]
   favicon = "img/favicon.ico"
   logo = "img/logo.png"
+  readingTime = true
+  wordCount = true
+  socialShare = true
+
+[taxonomies]
+  tag = "tags"
+
+[[menu.main]]
+  name = "TOP"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "TAGS"
+  url = "tags"
+  weight = 2
