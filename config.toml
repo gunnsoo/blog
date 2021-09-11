@@ -1,4 +1,4 @@
-baseURL = "https://blog.gunnsoo.com/"
+baseURL = "https://gunnsoo.com/"
 languageCode = "ja"
 title = "gunnsoo's blog"
 theme = "beautifulhugo"

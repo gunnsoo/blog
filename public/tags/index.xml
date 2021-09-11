@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on gunnsoo&#39;s blog</title>
-    <link>https://blog.gunnsoo.com/tags/</link>
+    <link>https://gunnsoo.com/tags/</link>
     <description>Recent content in Tags on gunnsoo&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Aug 2021 17:17:20 +0900</lastBuildDate><atom:link href="https://blog.gunnsoo.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Aug 2021 17:17:20 +0900</lastBuildDate><atom:link href="https://gunnsoo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>book</title>
-      <link>https://blog.gunnsoo.com/tags/book/</link>
+      <link>https://gunnsoo.com/tags/book/</link>
       <pubDate>Sat, 21 Aug 2021 17:17:20 +0900</pubDate>
       
-      <guid>https://blog.gunnsoo.com/tags/book/</guid>
+      <guid>https://gunnsoo.com/tags/book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dev</title>
-      <link>https://blog.gunnsoo.com/tags/dev/</link>
+      <link>https://gunnsoo.com/tags/dev/</link>
       <pubDate>Sat, 21 Aug 2021 17:17:20 +0900</pubDate>
       
-      <guid>https://blog.gunnsoo.com/tags/dev/</guid>
+      <guid>https://gunnsoo.com/tags/dev/</guid>
       <description></description>
     </item>
     
