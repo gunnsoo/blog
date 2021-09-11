@@ -2,6 +2,7 @@ baseURL = "https://gunnsoo.com/"
 languageCode = "ja"
 title = "gunnsoo's blog"
 theme = "beautifulhugo"
+hasCJKLanguage = true
 
 [Author]
   name = "Kazuki Sugai"
@@ -17,6 +18,7 @@ theme = "beautifulhugo"
   readingTime = true
   wordCount = true
   socialShare = true
+  showRelatedPosts = true
 
 [taxonomies]
   tag = "tags"
