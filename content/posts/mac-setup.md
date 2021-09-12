@@ -2,7 +2,7 @@
 title: "MacBook Air (M1, 2020) セットアップ"
 date: 2021-09-11T10:18:05+09:00
 draft: false
-tags: [ "pc" ]
+tags: [ "PC" ]
 ---
 
 M1 MacBook Air 買いました。
