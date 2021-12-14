@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gunnsoo.com/tags/book/</loc>
-    <lastmod>2021-08-21T17:17:20+09:00</lastmod>
-  </url><url>
-    <loc>https://gunnsoo.com/tags/dev/</loc>
-    <lastmod>2021-08-21T17:17:20+09:00</lastmod>
-  </url><url>
     <loc>https://gunnsoo.com/</loc>
-    <lastmod>2021-08-21T17:17:20+09:00</lastmod>
+    <lastmod>2021-09-12T11:06:35+09:00</lastmod>
   </url><url>
     <loc>https://gunnsoo.com/posts/</loc>
-    <lastmod>2021-08-21T17:17:20+09:00</lastmod>
+    <lastmod>2021-09-12T11:06:35+09:00</lastmod>
   </url><url>
     <loc>https://gunnsoo.com/tags/</loc>
-    <lastmod>2021-08-21T17:17:20+09:00</lastmod>
+    <lastmod>2021-09-12T11:06:35+09:00</lastmod>
+  </url><url>
+    <loc>https://gunnsoo.com/posts/ap/</loc>
+    <lastmod>2021-09-12T11:06:35+09:00</lastmod>
+  </url><url>
+    <loc>https://gunnsoo.com/tags/%E8%B3%87%E6%A0%BC/</loc>
+    <lastmod>2021-09-12T11:06:35+09:00</lastmod>
+  </url><url>
+    <loc>https://gunnsoo.com/posts/mac-setup/</loc>
+    <lastmod>2021-09-11T10:18:05+09:00</lastmod>
+  </url><url>
+    <loc>https://gunnsoo.com/tags/pc/</loc>
+    <lastmod>2021-09-11T10:18:05+09:00</lastmod>
   </url><url>
     <loc>https://gunnsoo.com/posts/agile-samurai/</loc>
+    <lastmod>2021-08-21T17:17:20+09:00</lastmod>
+  </url><url>
+    <loc>https://gunnsoo.com/tags/%E6%9C%AC/</loc>
     <lastmod>2021-08-21T17:17:20+09:00</lastmod>
   </url>
 </urlset>

@@ -6,18 +6,32 @@
     <description>Recent content on gunnsoo&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Aug 2021 17:17:20 +0900</lastBuildDate><atom:link href="https://gunnsoo.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 11:06:35 +0900</lastBuildDate><atom:link href="https://gunnsoo.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>応用情報技術者試験に合格した</title>
+      <link>https://gunnsoo.com/posts/ap/</link>
+      <pubDate>Sun, 12 Sep 2021 11:06:35 +0900</pubDate>
+      
+      <guid>https://gunnsoo.com/posts/ap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MacBook Air (M1, 2020) セットアップ</title>
+      <link>https://gunnsoo.com/posts/mac-setup/</link>
+      <pubDate>Sat, 11 Sep 2021 10:18:05 +0900</pubDate>
+      
+      <guid>https://gunnsoo.com/posts/mac-setup/</guid>
+      <description>M1 MacBook Air 買いました。 MacBook Proの2017年モデルをずっと使っていたのですが、動きがもっさりしてきたので買い替えました。 充電のもちとサクサクさに驚</description>
+    </item>
+    
     <item>
       <title>「アジャイルサムライ」を読んだ</title>
       <link>https://gunnsoo.com/posts/agile-samurai/</link>
       <pubDate>Sat, 21 Aug 2021 17:17:20 +0900</pubDate>
       
       <guid>https://gunnsoo.com/posts/agile-samurai/</guid>
-      <description>「アジャイルサムライ−達人開発者への道」を読みました。
-購入履歴をみたら、2020/10/24に購入していたので1年近く積んでた計算になりますが、 近頃業務でチーム開発の進め方について悩んだりすることが増えたので、改めて手に取ってみました。
-アジャイル開発の定義から始まって、プロジェクトであるあるな問題をアジャイル開発でどうやって解決するかを、アジャイルマスターである”マスター・センセイ”に教えてもらいながら学んでいく形式になっています。
-以下いくつか気になったトピックと感想。
-見積もりの問題 群衆の叡智 ふりかえりの流儀 エンジニアだけじゃなく、プロデューサーやビジネスサイドの方にも読んでもらいたいな〜って感じの本でした。</description>
+      <description>「アジャイルサムライ−達人開発者への道」を読みました。 購入履歴をみたら、2020/10/24に購入していたので1年近く積んでた計算になります</description>
     </item>
     
   </channel>

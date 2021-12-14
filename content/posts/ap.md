@@ -1,7 +1,7 @@
 ---
 title: "応用情報技術者試験に合格した"
 date: 2021-09-12T11:06:35+09:00
-draft: true
+draft: false
 tags: [ "資格" ]
 ---
 
