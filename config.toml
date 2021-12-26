@@ -3,6 +3,7 @@ languageCode = "ja"
 title = "gunnsoo's blog"
 theme = "beautifulhugo"
 hasCJKLanguage = true
+googleAnalytics = 'G-9ZH1Z1NSCC'
 
 [Author]
   name = "Kazuki Sugai"
