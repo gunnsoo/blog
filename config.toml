@@ -20,6 +20,8 @@ googleAnalytics = 'G-9ZH1Z1NSCC'
   wordCount = true
   socialShare = true
   showRelatedPosts = true
+  amazonJpAffiliate = "gunnsoo-22"
+  customCSS = ["/css/amazon.css"]
 
 [taxonomies]
   tag = "tags"
