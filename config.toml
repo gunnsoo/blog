@@ -35,3 +35,8 @@ googleAnalytics = 'G-9ZH1Z1NSCC'
   name = "TAGS"
   url = "tags"
   weight = 2
+
+[[menu.main]]
+  name = "ABOUT"
+  url = "about"
+  weight = 3
