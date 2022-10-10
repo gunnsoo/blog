@@ -5,8 +5,9 @@ draft: false
 ---
 
 # Summary
-データパイプラインの開発とかしてきて、最近はデータ基盤どう作るかとか戦略考えたりとか実際の開発したりとかしてる。
-TBD
+2019年に新卒でソフトウェアエンジニアとして楽天グループ株式会社に入社して以来、主にデータパイプライン周りの開発に携わってきました。  
+直近1年ほどは、社内データ基盤の改善戦略を考え各所と調整しながら推進するなど、実装業務以外のこともしております。  
+データ基盤周りでチャレンジングな仕事の機会を探しています。
 
 &nbsp;
 
@@ -14,95 +15,74 @@ TBD
 ### [2019/04-Now]　Software Engineer　Rakuten Group, Inc.
 
 - __[2022/01-Now] DWH Improvement Promotion__  
-<役割>  
-企画立案者として、草案作りや調整などを担当  
 <概要>  
-
-戦略考えたりとかデータ基盤のデザインとかしてる
+社内データ基盤の改善戦略を立案し、草案作りや各所との調整などを担当。  
+<担当業務>  
+  - 社内データ基盤の各ユーザへヒアリングを行い課題点の洗い出し
+  - 社外の資料や勉強会などで得た情報をまとめ、改善戦略を立案
+  - データアーキテクチャ、データモデリングについてのベストプラクティスの調査や社内基盤への適用
+  - 各所との調整や説得
 
 &nbsp;
 
 - __[2020/03-Now] Personalization Optimization Platform__  
-<役割>  
-メンバーから入り、後にリーダーとして、開発全般を担当  
-<使用技術>  
-Python, Go, Luigi, Airflow, PySpark, Apache Iceberg, Great Expectations, DataRobot  
 <概要>  
 社内のマーケティング担当者向けに、機械学習を用いてどの顧客にリーチすると施策効果が高いかを予測するシステムを開発。  
-プロジェクト初期では、エンジニア３人チームの内のメンバーとして、草案の状態からリリースまでの開発を担当。  
-その後は、エンジニア４人チームの内のリーダーとして、開発業務全般を担当した。  
-Goでスケジューラー、Pythonでデータパイプラインを記述し、Luigiでワークフロー管理をする構成をプロジェクト初期では取っており、デザインから実装まで行なった。  
-1年近く運用を続ける中で、データパイプラインの拡張性と特徴量管理に課題が出てきたため、システム基盤をリプレイスした。  
-新基盤では、ワークフロー管理にAirflowを採用し、ユースケースごとに記述していたデータパイプラインを、テンプレートと定義ファイルにより記述できるように変えた。    
-また、Apache Icebergを用いて特徴量管理をする構成に変え、ユースケースごとに都度生成していた特徴量を１箇所に集約させるようにした。  
+プロジェクト初期ではエンジニア３人チームの内のメンバーとして草案の状態からリリースまでの開発を担当し、その後はエンジニア５人チームの内のリーダーとして、開発業務全般を担当した。   
+<使用技術>  
+Python, Go, Luigi, Airflow, PySpark, Presto, Apache Iceberg, Great Expectations, DataRobot  
+<担当業務>  
+  - データパイプライン全体のライフサイクル管理をデザイン
+  - Python,Luigi,PySparkでデータパイプラインの開発
+  - Goでスケジューラーの開発
+  - DataRobotとのAPI連携部分を開発
+  - 社内データ基盤とのPresto接続部分を開発
+  - ワークフロー管理システムをAirflowへリプレイス
+  - Apache Icebergでの特徴量管理構成をデザイン
 
 &nbsp;
 
 - __[2019/07-2020/02] Blockchain Based System__  
-<役割>  
-メンバーとして、主にCI/CD整備を担当  
-<使用技術>  
-Bash, Hyperledger Fabric, Docker Swarm  
 <概要>  
-エンジニア４人チームの内のメンバーとして、データ保持コストを抑える目的でブロックチェーン技術を用いて金融データを長期的に管理するシステムを開発。  
-[Hyperledger Fabric](https://github.com/hyperledger/fabric "GitHubへ移動")というOSSの分散台帳フレームワークをコア技術として用いた。  
-Docker Swarmを用いて複数ノードにHyperledger Fabricの各コンポーネントをデプロイする構成の中で、テスト自動化や各環境へのデプロイを行うパイプラインの開発を主に担当した。  
+エンジニア５人チームの内のメンバーとして、分散型台帳技術を用いて金融データを長期的に管理するシステムを開発。  
+<使用技術>  
+Bash, Docker Swarm, Hyperledger Fabric  
+<担当業務>  
+  - BashスクリプトでDocker Swarm環境への各種コンポーネントデプロイ作業やテスト作業を自動化
+  - Hyperledger Fabricの開発者とやり取りしつつ、各種デバッグ作業
 
 &nbsp;
 
 # Education
-- 2015年 - 2019年　学士・経済学　慶應義塾大学
+2015年 - 2019年　学士・経済学　慶應義塾大学
+
+&nbsp;
+
+# Qualification
+- TOEIC L&R 910点 (2019年)
+- AZ-900: Azure Fundamentals (2020年)
+- 応用情報技術者 (2021年)
 
 &nbsp;
 
 # Skills
-1~3
-- 1 : 使ったことがある
-- 2 : 業務で導入を検討し調査などを行なった
-- 3 : 業務で使用している/本番環境で運用している
+#### データパイプライン開発
+- 0->1でデータパイプラインが中核にあるサービス開発をし、2年以上運用した実績があります
+- オンプレ環境でOSSを用いて開発を行っていたので、習熟度にばらつきはありますが、色々なデータ分析周りのOSSを利用してきました
 
-項目別に数値化した方がよさそう
-
-&nbsp;
-
-## Languages
-Python : 3
-Go : 3
-Java : 3
-SQL : 
-
-&nbsp;
-
-## Data Processing Tools
-1~3
-- 1 : 使ったことがある
-- 2 : 業務で導入を検討し調査などを行なった
-- 3 : 業務で使用している/本番環境で運用している
-
-Hadoop
-Apahce Spark
-Pandas
-Dask
-
-Apahce Iceberg
-
-Apahce Airflow
-Luigi
-
-CliskHouse
+#### データ基盤のデザイン
+- データアーキテクチャ(CIF, Dimensional DWH)やデータモデリング(スター・スキーマ、スノーフレーク・スキーマ、Data Vault)について調査をし、社内システムのデザインをした経験があります
 
 &nbsp;
 
 # Communication Languages
-Japanese : Native
+Japanese : Native  
 English  : Business Intermediate
 
 &nbsp;
 
 # Area of Interests
 - Data Engineering
+- Solution Architect
 - MLOps
-- Analytics
-
-- Golf
-- Tennis
+- Data Analytics
