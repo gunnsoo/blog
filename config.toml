@@ -7,11 +7,6 @@ googleAnalytics = 'G-9ZH1Z1NSCC'
 
 [Author]
   name = "gunnsoo"
-  github = "gunnsoo"
-  twitter = "gnnsoo"
-  linkedin = "kazuki-sugai-482875192"
-  atcoder = "pybot114514"
-  qiita = "gunnsoo"
 
 [Params]
   favicon = "img/favicon.ico"
