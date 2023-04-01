@@ -4,3 +4,10 @@
 my blog
 
 https://gunnsoo.com/
+
+## new post
+hugo new content/posts/hoge.md
+
+## deploy
+hugo
+git push

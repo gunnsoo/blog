@@ -8,21 +8,12 @@
     <language>ja</language>
     <lastBuildDate>Sun, 19 Dec 2021 11:06:35 +0900</lastBuildDate><atom:link href="https://gunnsoo.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Resume</title>
-      <link>https://gunnsoo.com/resume/</link>
-      <pubDate>Thu, 06 Oct 2022 09:11:05 +0900</pubDate>
-      
-      <guid>https://gunnsoo.com/resume/</guid>
-      <description>Summary 2019年に新卒でソフトウェアエンジニアとして楽天グループ株式会社に入社して以来、主にデータパイプライン周りの開発に携わってきました。 直近</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://gunnsoo.com/about/</link>
       <pubDate>Sun, 06 Mar 2022 17:59:48 +0900</pubDate>
       
       <guid>https://gunnsoo.com/about/</guid>
-      <description>GitHub AtCoder Twitter LinkedIn Resume</description>
+      <description>GitHub AtCoder Twitter LinkedIn</description>
     </item>
     
     <item>

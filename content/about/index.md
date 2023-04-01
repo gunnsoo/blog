@@ -11,5 +11,3 @@ draft: false
 [Twitter](https://twitter.com/gnnsoo "Twitterへ移動")
 
 [LinkedIn](https://www.linkedin.com/in/kazuki-sugai-482875192/ "LinkedInへ移動")
-
-[Resume]({{< ref "resume" >}})
