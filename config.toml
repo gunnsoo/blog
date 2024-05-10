@@ -1,0 +1,35 @@
+baseURL = "https://gunnsoo.com/"
+languageCode = "ja"
+title = "軍曹's ブログ"
+theme = "beautifulhugo"
+hasCJKLanguage = true
+googleAnalytics = 'G-9ZH1Z1NSCC'
+
+[Author]
+  name = "軍曹"
+
+[Params]
+  favicon = "img/favicon.ico"
+  logo = "img/logo.png"
+  socialShare = true
+  showRelatedPosts = true
+  amazonJpAffiliate = "gunnsoo-22"
+  customCSS = ["/css/amazon.css"]
+
+[taxonomies]
+  tag = "tags"
+
+[[menu.main]]
+  name = "TOP"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "TAGS"
+  url = "tags"
+  weight = 2
+
+[[menu.main]]
+  name = "ABOUT"
+  url = "about"
+  weight = 3

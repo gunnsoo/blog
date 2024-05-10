@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PC on 軍曹&#39;s ブログ</title>
+    <link>https://gunnsoo.com/tags/pc/</link>
+    <description>Recent content in PC on 軍曹&#39;s ブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 11 Sep 2021 10:18:05 +0900</lastBuildDate><atom:link href="https://gunnsoo.com/tags/pc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MacBook Air (M1, 2020) セットアップ</title>
+      <link>https://gunnsoo.com/posts/mac-setup/</link>
+      <pubDate>Sat, 11 Sep 2021 10:18:05 +0900</pubDate>
+      
+      <guid>https://gunnsoo.com/posts/mac-setup/</guid>
+      <description>M1 MacBook Air 買いました。 MacBook Proの2017年モデルをずっと使っていたのですが、動きがもっさりしてきたので買い替えました。 充電のもちとサクサクさに驚</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>軍曹&#39;s ブログ</title>
+    <link>https://gunnsoo.com/</link>
+    <description>Recent content on 軍曹&#39;s ブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 08 May 2024 18:34:59 +0900</lastBuildDate><atom:link href="https://gunnsoo.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>米・ジョージア工科大のオンラインCS修士コース(OMSCS)に進学する</title>
+      <link>https://gunnsoo.com/posts/omscs-admission/</link>
+      <pubDate>Wed, 08 May 2024 18:34:59 +0900</pubDate>
+      
+      <guid>https://gunnsoo.com/posts/omscs-admission/</guid>
+      <description>米・ジョージア工科大が提供するオンラインCS修士コース、通称OMSCSのFall 2024セメスターに応募をして合格しました。 前々からぼんやり</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gunnsoo.com/about/</link>
+      <pubDate>Sun, 06 Mar 2022 17:59:48 +0900</pubDate>
+      
+      <guid>https://gunnsoo.com/about/</guid>
+      <description>Twitter</description>
+    </item>
+    
+    <item>
+      <title>応用情報技術者試験 合格体験記</title>
+      <link>https://gunnsoo.com/posts/ap/</link>
+      <pubDate>Sun, 19 Dec 2021 11:06:35 +0900</pubDate>
+      
+      <guid>https://gunnsoo.com/posts/ap/</guid>
+      <description>今から半年以上前の話ですが、2021年4月に行われた応用情報技術者試験を受けました。 Twitter上などでは「早起き試験」などとネタにされて</description>
+    </item>
+    
+    <item>
+      <title>Airflow Docker ImageのEntrypointの挙動</title>
+      <link>https://gunnsoo.com/posts/airflow-docker-entrypoint/</link>
+      <pubDate>Sun, 12 Dec 2021 20:32:05 +0900</pubDate>
+      
+      <guid>https://gunnsoo.com/posts/airflow-docker-entrypoint/</guid>
+      <description>Airflow公式のDocker Imageを使って、Airflowクラスターを構築しようとした際に、Docker Entrypointの挙動に</description>
+    </item>
+    
+    <item>
+      <title>MacBook Air (M1, 2020) セットアップ</title>
+      <link>https://gunnsoo.com/posts/mac-setup/</link>
+      <pubDate>Sat, 11 Sep 2021 10:18:05 +0900</pubDate>
+      
+      <guid>https://gunnsoo.com/posts/mac-setup/</guid>
+      <description>M1 MacBook Air 買いました。 MacBook Proの2017年モデルをずっと使っていたのですが、動きがもっさりしてきたので買い替えました。 充電のもちとサクサクさに驚</description>
+    </item>
+    
+    <item>
+      <title>「アジャイルサムライ」を読んだ</title>
+      <link>https://gunnsoo.com/posts/agile-samurai/</link>
+      <pubDate>Sat, 21 Aug 2021 17:17:20 +0900</pubDate>
+      
+      <guid>https://gunnsoo.com/posts/agile-samurai/</guid>
+      <description>「アジャイルサムライ−達人開発者への道」を読みました。 購入履歴をみたら、2020/10/24に購入していたので1年近く積んでた計算になります</description>
+    </item>
+    
+  </channel>
+</rss>
