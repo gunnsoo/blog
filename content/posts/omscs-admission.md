@@ -39,7 +39,7 @@ tags: [ "海外大学院" ]
 
 といった理由から自然と海外大学院に目を向けることになりました。
 
-UT Austin、イリノイ大学、ペンシルバニア大学なども出願を検討しましたが、最終的には、学費と合格率を考慮しGeorgia Techのみに絞って出願することを決めました。
+UT Austin、イリノイ大学、ペンシルバニア大学なども出願を検討しましたが、最終的には、学費と授業の豊富さが決め手となりGeorgia Techのみに絞って出願することを決めました。
 
 Georgia Techに関してはつい最近に授業料の値上げがアナウンスされました([Board of Regents Approves Funding and Tuition Increases for Fiscal Year 2025](https://news.gatech.edu/news/2024/04/17/board-regents-approves-funding-and-tuition-increases-fiscal-year-2025))が、それでも他に比べたら圧倒的に安いです。
 
